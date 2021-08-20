@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="background_image">
+    <file>E:/ps材料/输入/IMG_2775(20200519-194904).JPG</file>
+  </qresource>
+  <qresource prefix="button_background_image">
+    <file>E:/ps材料/输入/IMG_2905(20200603-190814).JPG</file>
+  </qresource>
+  <qresource prefix="pure_white">
+    <file>E:/ps材料/输入/white_dog_mask.png</file>
+  </qresource>
+</RCC>
